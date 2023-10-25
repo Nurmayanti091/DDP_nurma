@@ -1,0 +1,10 @@
+namaKendaraan=["avanza","beat","fuso"]
+JenisKendaraan=["mobil","motor","truck"]
+ccKendaraan=["1500cc","110cc","7545"]
+warnaKendaraan=["merah","biru","hitam"]
+rodaKendaraan=[4,2,6]
+
+harga=(235000000,15000000,3350000000)
+tipe=("1.3MT","CBS","Troton")
+
+print(namaKendaraan[2])
